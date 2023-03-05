@@ -10,6 +10,7 @@ Table for Linus
 | whonami | Show user|
 | date | Show date |
 | cd | Change to directory|
+| pwd | route directory|
 
 Table of Alias
 

@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Juan Miguel Fernández
+## _I'm self taught and I'm always learning_
 
-<!--
-**Juanmi72/Juanmi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For now JavaScript, html and css are my studies.
 
-Here are some ideas to get you started:
+Table for Linus
+|Command|Action|
+|-------|----|
+| ls | Show directory|
+| whonami | Show user|
+| date | Show date |
+| cd | Change to directory|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Table of Alias
+
+|Alias|Action|
+|-------|------------|
+| cl | clear    |
+| findd | "ls ~/ &#124; grep $1"|

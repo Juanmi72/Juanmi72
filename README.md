@@ -12,7 +12,7 @@ For now JavaScript, html and css are my studies.
 | cd | Change to directory|
 | pwd | route directory|
 
-###*Table of Alias*
+### *Table of Alias*
 
 |Alias|Action|
 |-------|------------|

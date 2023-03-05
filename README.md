@@ -3,7 +3,7 @@
 
 For now JavaScript, html and css are my studies.
 
-Table for Linus
+### *Table for Linus*
 |Command|Action|
 |-------|----|
 | ls | Show directory|
@@ -12,7 +12,7 @@ Table for Linus
 | cd | Change to directory|
 | pwd | route directory|
 
-Table of Alias
+###*Table of Alias*
 
 |Alias|Action|
 |-------|------------|
